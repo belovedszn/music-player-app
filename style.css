@@ -19,7 +19,7 @@ body {
 }
 
 .music-player {
-  background: #002339;
+  background: linear-gradient(135deg, #cf9aff, #95c0ff);
   width: 400px;
   padding: 25px 35px;
   text-align: center;
